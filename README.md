@@ -71,3 +71,6 @@ Images: (Dashboard Image)
 
 High-quality data is the foundation of effective decision-making. This project demonstrates how raw data can be transformed into reliable, analysis-ready information and how Pivot Tables can be used to quickly generate meaningful business insights for reporting and decision support.
 
+# Feedback & collaboration
+Your feedback is welcome! If you'd like to collaborate on similar projects or discuss data analysis opportunities, feel free to reach out.
+
