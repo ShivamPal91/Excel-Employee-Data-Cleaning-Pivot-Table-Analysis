@@ -62,9 +62,9 @@ Business Reporting
 Exploratory Data Analysis (EDA)
 
 # Repository Structure
-Dashboard Excel File Data : https://github.com/ShivamPal91/Excel-Employee-Data-Cleaning-Pivot-Table-Analysis/blob/main/Employee_Sample_Data_Fully_Cleaned.xlsx 
+Dashboard Excel File Data : https://github.com/ShivamPal91/Excel-Employee-Data-Cleaning-Pivot-Table-Analysis/blob/main/Employee_Sample_Data_Fully_Cleaned.xlsx <br />
 Images: (Dashboard Image)
-<img> https://github.com/ShivamPal91/Excel-Employee-Data-Cleaning-Pivot-Table-Analysis/blob/main/Dashboard%20Image.png </img>
+<img https://github.com/ShivamPal91/Excel-Employee-Data-Cleaning-Pivot-Table-Analysis/blob/main/Dashboard%20Image.png />
 
 # Business Value
 
