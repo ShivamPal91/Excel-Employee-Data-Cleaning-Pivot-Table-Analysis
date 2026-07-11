@@ -5,20 +5,20 @@ This project demonstrates an end-to-end data preparation and analysis workflow u
 The project highlights practical Excel skills commonly required for Data Analyst roles, including data cleaning, preprocessing, summarization, and reporting.
 
 # Project Objectives
-Clean and organize raw employee data. </ br>
-Improve data quality by removing inconsistencies. </ br>
-Prepare the dataset for analysis. </ br>
-Create Pivot Tables to summarize key business metrics. </ br>
-Generate actionable insights from the cleaned data. </ br>
+Clean and organize raw employee data. <br />
+Improve data quality by removing inconsistencies. <br />
+Prepare the dataset for analysis. <br />
+Create Pivot Tables to summarize key business metrics. <br />
+Generate actionable insights from the cleaned data. <br />
 
 # Tools & Technologies
-Microsoft Excel </ br>
-Pivot Tables </ br>
-Excel Functions (TRIM, CLEAN, IF, etc.)</ br>
-Sort & Filter</ br>
-Remove Duplicates</ br>
-Data Validation</ br>
-Conditional Formatting</ br>
+Microsoft Excel <br />
+Pivot Tables <br />
+Excel Functions (TRIM, CLEAN, IF, etc.)<br />
+Sort & Filter<br />
+Remove Duplicates<br />
+Data Validation<br />
+Conditional Formatting<br />
 
 # Employee Sample Dataset
 
@@ -28,13 +28,13 @@ The dataset contains employee-related information such as employee details, depa
 
 The following data preparation steps were performed:
 
-Removed duplicate records</ br>
-Eliminated extra spaces using Excel text functions</ br>
-Deleted blank rows and empty columns</ br>
-Corrected inconsistent text formatting</ br>
-Standardized data values</ br>
-Improved data accuracy and consistency</ br>
-Validated records for analysis readiness</ br>
+Removed duplicate records<br />
+Eliminated extra spaces using Excel text functions<br />
+Deleted blank rows and empty columns<br />
+Corrected inconsistent text formatting<br />
+Standardized data values<br />
+Improved data accuracy and consistency<br />
+Validated records for analysis readiness<br />
 
 # Pivot Table Analysis
 
@@ -42,24 +42,24 @@ After cleaning the dataset, Pivot Tables were created to analyze business perfor
 
 Examples include:
 
-Employee count by department</ br>
-Gender distribution</ br>
-Average salary by department</ br>
-Employee distribution by location</ br>
-Age group analysis</ br>
-Summary statistics for business reporting</ br>
+Employee count by department<br />
+Gender distribution<br />
+Average salary by department<br />
+Employee distribution by location<br />
+Age group analysis <br />
+Summary statistics for business reporting <br />
 
 These Pivot Tables transformed raw data into easy-to-understand summaries, enabling faster decision-making.
 
 # Skills Demonstrated
-Microsoft Excel</ br>
-Data Cleaning</ br>
-Data Preparation</ br>
-Data Quality Management</ br>
-Pivot Table Analysis</ br>
-Data Validation</ br>
-Business Reporting</ br>
-Exploratory Data Analysis (EDA)</ br>
+Microsoft Excel<br /> 
+Data Cleaning<br />
+Data Preparation<br />
+Data Quality Management<br />
+Pivot Table Analysis<br />
+Data Validation<br />
+Business Reporting<br />v
+Exploratory Data Analysis (EDA)<br />
 
 # Repository Structure
 Dashboard Excel File Data : https://github.com/ShivamPal91/Excel-Employee-Data-Cleaning-Pivot-Table-Analysis/blob/main/Employee_Sample_Data_Fully_Cleaned.xlsx <br />
