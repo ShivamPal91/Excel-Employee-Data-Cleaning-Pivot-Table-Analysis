@@ -1,4 +1,4 @@
-# Project Overview
+# Excel Employee Data Cleaning & Pivot Table Analysis
 
 This project demonstrates an end-to-end data preparation and analysis workflow using Microsoft Excel. The primary objective was to clean a raw employee dataset, improve its quality, and perform exploratory analysis using Pivot Tables to generate meaningful business insights.
 
@@ -62,6 +62,9 @@ Business Reporting
 Exploratory Data Analysis (EDA)
 
 # Repository Structure
+Dashboard Excel File Data : Employee_Sample_Data_Fully_Cleaned.xlsx
+Images: (Dashboard Image)
+Dashboard Image.png
 
 # Business Value
 
